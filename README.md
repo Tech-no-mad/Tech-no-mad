@@ -3,9 +3,9 @@
 - 🌱 I’ve completed learning Vue.js and am now advancing my skills in Flask, DSA, and intermediate Deep Learning.
 - 💼 My recent projects include:
 
-    Library Management System: A Flask app with JWT-based security, email notifications, and admin features, managed with Redis and Celery.
-    Grocery Web App: A shopping app with search functionality, CRUD operations, and MVC architecture.
-    ML Projects: A Kaggle project on crime forecasting and an AI vs. human text classifier.
+    - Library Management System: A Flask app with JWT-based security, email notifications, and admin features, managed with Redis and Celery.
+    - Grocery Web App: A shopping app with search functionality, CRUD operations, and MVC architecture.
+    - ML Projects: A Kaggle project on crime forecasting and an AI vs. human text classifier.
 
 - 💞️ I’m open to collaborating on ML problems, Kaggle challenges, and full-stack projects.
 - 📫 How to reach me : instagram notnpc007
