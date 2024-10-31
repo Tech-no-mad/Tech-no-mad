@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @Tech-no-mad
-- 👀 I’m interested in tech,testing and building new real time projects that have a positive impact on the world.
-- 🌱 I’m currently learning Vue.js,Flask,Web dev,DSA(problem solving so as not to fail at first step!!),ML concepts and 
-- 💞️ I’m looking to collaborate on ML problems on Kaggle,Leetcode questions,frontend framework currently focused on vue.js(frontend) and developing project and see through it completely.
+- 👋 Hi, I’m @Tech-no-mad, also known as Karteek Tadimalla.
+- 👀 I’m passionate about tech, testing, and building real-time projects with a positive impact.
+- 🌱 I’ve completed learning Vue.js and am now advancing my skills in Flask, DSA, and intermediate Deep Learning.
+- 💼 My recent projects include:
+
+    Library Management System: A Flask app with JWT-based security, email notifications, and admin features, managed with Redis and Celery.
+    Grocery Web App: A shopping app with search functionality, CRUD operations, and MVC architecture.
+    ML Projects: A Kaggle project on crime forecasting and an AI vs. human text classifier.
+
+- 💞️ I’m open to collaborating on ML problems, Kaggle challenges, and full-stack projects.
 - 📫 How to reach me : instagram notnpc007
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I’m interested in technology that makes me go **mad** and not a **nomad**
